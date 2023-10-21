@@ -1,0 +1,3 @@
+/home/anikievgr/CLionProjects/LR18/cmake-build-debug/CMakeFiles/LR18.dir
+/home/anikievgr/CLionProjects/LR18/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anikievgr/CLionProjects/LR18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
